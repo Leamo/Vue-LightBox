@@ -1,5 +1,11 @@
 # Vue-LightBox
 
+## Description
+
+Lightbox system based on VueJS.
+
+Inspired by : https://www.grafikart.fr/tutoriels/tp-lightbox-820
+
 ## Project setup
 ```
 npm install
